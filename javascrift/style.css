@@ -1,0 +1,20 @@
+.buton {
+    width: 100px;
+    height: 100px; 
+    background-color: red;
+} 
+.butonblue{
+    width: 100px;
+    height: 100px; 
+    background-color: blue;
+} 
+.butongreen{
+    width: 100px;
+    height: 100px; 
+    background-color: green; 
+}
+#textreceved{
+    font-size: 2em;
+    color: blue;
+}
+    

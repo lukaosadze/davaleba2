@@ -1,0 +1,126 @@
+.head {
+    background-color: rgb(23, 23, 112);
+    height: 120px;
+    margin-top: 0px;
+  
+  }
+  .title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  
+  }
+  .head2{
+    background-color: white;
+    border-bottom: 2px solid black;
+    height: 35px;
+  
+  }
+.title2{
+    display: flex;
+}
+  .hover {
+    margin-right: 50px;
+    margin-top: 10px;
+    color: blue;
+  }
+  .hover :hover{
+    color:aqua;
+  cursor: pointer;}
+.line2{
+    background-size:cover ;
+    border-right: 2px solid rgb(0, 0, 0);
+    width: 1100px;
+   height: 900px;
+    margin-top:6px ;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+     
+
+}
+.foto1{
+  
+}
+.foto2{
+    width: 530px;
+    height: 250px;
+    margin-top:20px ;
+   
+}
+.title1 {
+    margin-bottom: 10px;
+}
+.title3{
+    color: rgb(0, 0, 107);
+}
+.foto3 {
+
+    width: 120px;
+    height: 120px;
+   
+    
+}
+.mamdiv1{
+    margin-bottom: 350px;
+    width: 300px;
+    height: 200px;
+
+    
+    
+   
+}
+.finish{
+    background-color:rgb(23, 23, 112);
+    
+    height: 120px;
+    display: flex;
+    color: wheat;
+ 
+}
+.text1 {
+    margin-left: 10px;
+}
+.text2 {
+  position: absolute;
+  top: 1093px;
+  right: 961px;
+}
+.text3{
+    position: absolute;
+    top: 1121px;
+    right: 954px;
+}
+.foto4 {
+    width: 100px;
+    height: 100px;
+    margin-left:400px;
+}
+.foto5{
+    width: 500px;
+    height: 500px;
+}
+.mamdiv2{
+    width: 300px;
+    height: 200px;
+    margin-top: -240px;
+}
+.reklama1{
+    width: 300px;
+    height:200px ;
+    margin-top: 10px;
+}
+
+.reklama{
+    position: relative;
+    top: -1020px;
+    left: 1102px;
+    height: 900px;
+    width: 234px;
+    background-color: rgb(255, 255, 255);
+}
+.reklama2{
+    width: 300px;
+    height: 200px;
+}
